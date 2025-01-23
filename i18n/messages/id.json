@@ -129,20 +129,20 @@
   },
   "Common": {
     "Import History": "Impor Riwayat",
-    "All": "All",
-    "Search": "Search"
+    "All": "Semua",
+    "Search": "Cari"
   },
   "Validation": {
     "GachaRecordQueryArgs": {
-      "Your UID must contain 9 characters": "Your UID must contain 9 characters",
-      "Your record ID cannot be empty": "Your record ID cannot be empty",
-      "Your URL contains an invalid server ID": "Your URL contains an invalid server ID",
-      "Your server area is not supported at the moment": "Your server area is not supported at the moment"
+      "Your UID must contain 9 characters": "UID harus terdiri dari 9 karakter",
+      "Your record ID cannot be empty": "Record ID Anda tidak boleh kosong",
+      "Your URL contains an invalid server ID": "URL Anda memiliki server ID yang tidak valid",
+      "Your server area is not supported at the moment": "Server untuk area Anda belum didukung untuk saat ini"
     }
   },
   "Metadata": {
     "Generic": {
-      "description": "Penghitung pity untuk Wuthering Waves, menggunakan data terkini dengan statistik global dan masih banyak lagi. Sinkronkan data Anda di seluruh perangkat dan bagikan gacha Anda dengan teman-teman dan lacak akun Anda dengan mudah!"
+      "description": "Penghitung pity untuk Wuthering Waves, menggunakan data terkini dengan statistik global dan masih banyak lagi. Sinkronkan data Anda di seluruh perangkat lalu bagikan gacha Anda dengan teman-teman dan lacak akun Anda dengan mudah!"
     },
     "Achievements": {
       "title": "Prestasi - Wuwa Tracker",
@@ -151,7 +151,7 @@
     "Convene": {
       "Index": {
         "title": "Riwayat Convene - Wuwa Tracker",
-        "description": "Lihat statistik gacha Wuthering Waves yang diperbarui dan Convenes terkini. Gunakan menu yang siap menangkap tangkapan layar untuk menyombongkan diri kepada teman-teman Anda! Penghitung pity Wuwa Tracker untuk Wuthering Waves, menggunakan data terkini dengan statistik global dan masih banyak lagi. Bagikan gacha Anda dengan teman dan lacak akun Anda!"
+        "description": "Lihat statistik gacha Wuthering Waves yang diperbarui dan Convene terkini. Gunakan menu yang siap menangkap tangkapan layar untuk menyombongkan diri kepada teman-teman Anda! Penghitung pity Wuwa Tracker untuk Wuthering Waves, menggunakan data terkini dengan statistik global dan masih banyak lagi. Bagikan gacha Anda dengan teman dan lacak akun Anda!"
       },
       "Global": {
         "title": "Statistik Global - Wuwa Tracker",
@@ -218,34 +218,34 @@
       "label": "Bantu Terjemahkan"
     },
     "Footer": {
-      "disclaimer": "We are not affiliated with Wuthering Waves. All game assets, content, and materials not owned by us are trademarks and copyrights of Kuro Games.",
+      "disclaimer": "Kami tidak berafiliasi dengan Wuthering Waves. Semua aset, konten, dan material game yang tidak dimiliki oleh kami adalah merek dagang dan hak cipta Kuro Games.",
       "Privacy Policy": "Kebijakan Privasi",
       "Terms & Conditions": "Syarat & Ketentuan"
     },
     "NavbarBanners": {
-      "url-expired": "Your URL has expired. To update your pulls, please open your in-game Convene history & <link>re-import your URL</link>"
+      "url-expired": "URL Anda sudah kedaluwarsa. Untuk memperbarui pull Anda, silakan buka Convene History di game & <link>impor ulang URL Anda</link>"
     }
   },
   "MenuList": {
     "Tools": "Peralatan",
-    "Inventory": "Inventory",
+    "Inventory": "Inventaris",
     "Guides": "Panduan",
     "Config": "Konfigurasi",
     "Convene Tracker": "Pelacak Convene",
     "Global Stats": "Statistik Global",
     "Share History": "Bagikan Riwayat",
     "Planner": "Planner",
-    "Items": "Items",
+    "Items": "Item",
     "Achievements": "Prestasi",
     "Timeline": "Linimasa",
     "Import": "Impor",
     "Settings": "Pengaturan",
-    "Resonators": "Resonators",
-    "Weapons": "Weapons",
+    "Resonators": "Resonator",
+    "Weapons": "Senjata",
     "Support Us": "Dukung Kami",
     "Sign In To Google": "Masuk ke Google",
     "Sign Out": "Keluar",
-    "Ask for Help": "Ask for Help"
+    "Ask for Help": "Bantuan"
   },
   "Dashboard": {
     "title": "Menu",
@@ -607,60 +607,60 @@
     "Show times adjusted to your local time zone": "Show times adjusted to your local time zone",
     "ResetTimers": {
       "title": "Timer Reset Harian Server",
-      "description": "Bandingkan waktu setempat Anda dengan server game Wuthering Waves untuk merencanakan petualangan Anda berikutnya.",
-      "Your Local Time": "Your Local Time",
-      "Current Server Time": "Current Server Time",
-      "Resets in": "Resets in",
-      "server-time-disclaimer": "Other server timers are displayed in their local time."
+      "description": "Bandingkan waktu lokal Anda dengan server game Wuthering Waves untuk merencanakan petualangan Anda berikutnya.",
+      "Your Local Time": "Waktu Lokal Anda",
+      "Current Server Time": "Waktu Server Saat Ini",
+      "Resets in": "Reset dalam",
+      "server-time-disclaimer": "Pengatur waktu server lain ditampilkan dalam masing-masing waktu lokal."
     },
     "TimelineItem": {
-      "Event has ended": "Event has ended",
-      "ends-in": "Ends in {timeLeft}",
-      "starts-in": "Starts in {timeLeft}",
-      "time-left": "{timeLeft} left",
-      "Local Time": "Local Time",
-      "Server Time": "Server Time"
+      "Event has ended": "Event sudah berakhir",
+      "ends-in": "Berakhir dalam {timeLeft}",
+      "starts-in": "Dimulai dalam {timeLeft}",
+      "time-left": "{timeLeft} lagi",
+      "Local Time": "Waktu Lokal",
+      "Server Time": "Waktu Server"
     },
     "Months": {
-      "January": "January",
-      "February": "February",
-      "March": "March",
+      "January": "Januari",
+      "February": "Februari",
+      "March": "Maret",
       "April": "April",
-      "May": "May",
-      "June": "June",
-      "July": "July",
-      "August": "August",
+      "May": "Mei",
+      "June": "Juni",
+      "July": "Juli",
+      "August": "Agustus",
       "September": "September",
-      "October": "October",
+      "October": "Oktober",
       "November": "November",
-      "December": "December"
+      "December": "Desember"
     },
     "DaysOfTheWeek": {
-      "Mo": "Mo",
-      "Tu": "Tu",
-      "We": "We",
-      "Th": "Th",
-      "Fr": "Fr",
-      "Sa": "Sa",
-      "Su": "Su"
+      "Mo": "Sen",
+      "Tu": "Sel",
+      "We": "Rab",
+      "Th": "Kam",
+      "Fr": "Jum",
+      "Sa": "Sab",
+      "Su": "Min"
     }
   },
   "Wiki": {
     "Resonator": {
-      "title": "Resonators"
+      "title": "Resonator"
     },
     "Weapon": {
-      "title": "Weapons"
+      "title": "Senjata"
     }
   },
   "Planner": {
-    "title": "Material Planner"
+    "title": "Planner Bahan"
   },
   "Tooltips": {
-    "sign-out-success": "Signed out successfully.",
-    "re-login-to-sync": "You need to re-login to continue syncing your data.",
-    "drive-pulls-in-sync": "Pulls are in sync with Google Drive.",
-    "drive-pulls-imported": "Successfully imported pulls from Google Drive.",
-    "drive-pulls-saved": "Successfully saved pulls to Google Drive."
+    "sign-out-success": "Berhasil keluar.",
+    "re-login-to-sync": "Anda harus login ulang untuk melanjutkan sinkronisasi data Anda.",
+    "drive-pulls-in-sync": "Riwayat disinkronkan dengan Google Drive.",
+    "drive-pulls-imported": "Berhasil mengimpor riwayat dari Google Drive.",
+    "drive-pulls-saved": "Berhasil menyimpan riwayat ke Google Drive."
   }
 }
